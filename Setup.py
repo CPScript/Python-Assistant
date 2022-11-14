@@ -1,4 +1,4 @@
-Question = input("Woud you like to set upi or assistant?")
+Question = input("Woud you like to set up your assistant?")
 if Question == ("yes")
 print ("Loading...")
 from subprocess import call
