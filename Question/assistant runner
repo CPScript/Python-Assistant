@@ -1,3 +1,4 @@
+## dont add anything to this code for maximum effect for proficincy
 Question = input("Your code has an error!    Yould you like some help?")
 if Question == ("yes")
 print (<If code Flase than Equeal %error 32@%>)
