@@ -9,6 +9,6 @@ print(" ")
 print("Done")
 print("<3")
 from subprocess import call
-call(["python", "python-helper"])
+call(["python", "python-helper.py"])
 time.sleep(1)
 ## REMENDER add another FailSafe if the Main FailSafe doesn't work.
