@@ -1,3 +1,4 @@
+import time
 print(" ")
 print(" ")
 print(" ")
@@ -50,10 +51,10 @@ choice = input("")
 
 if choice == "yes":
     print("Set up started")
-   from subprocess import call
-call(["python", "python-helper.py"])
+    from subprocess import call
+    call(["python", "python-helper.py"])
 if choice == "no":
     print("OK...")
     print("Booting Down")
     from subprocess import call
-call(["python", "python-helper.py"])
+    call(["python", "python-helper.py"])
