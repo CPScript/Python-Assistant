@@ -1,7 +1,4 @@
 import time
-from subprocess import call
-call(["python", "python-helper.py"])
-
 import os
 from cryptography.fernet import Fernet
 
