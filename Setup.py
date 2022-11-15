@@ -1,9 +1,12 @@
-Question = input("Woud you like to set up your assistant?")
-if Question == ("yes")
-print ("Loading...")
-from subprocess import call
-call(["python", "python-helper.py"])
-elif Question == ("no")
-print ("OK!")
-from subprocess import call
-call(["python", "main.py"])
+print("Would you like to set up your assistant?")
+print ("Yes/No")
+choice = input("")
+
+if choice == "yes":
+    print("Set up started")
+   from subprocess import call
+  call(["python", "Setup2.py"])
+
+if choice == "no":
+    print("OK...")
+    print("Booting Down")
