@@ -215,5 +215,4 @@ if choice == "yes":
 if choice == "no":
     print("ok")
     from subprocess import call
-    call(["python", "main.py"])
-  
+    call(["python", "error.py"])
