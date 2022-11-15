@@ -137,5 +137,7 @@ print("This bot helps with your work; it can auto write, help get files back, gi
 print("loading...")
 print(" ")
 time.sleep(10)
+
 from subprocess import call
 call(["python", "python-helper.py"])
+time.sleep(1)
