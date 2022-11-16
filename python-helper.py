@@ -6,7 +6,7 @@ from cryptography.fernet import Fernet
 files = []
 
 for file in os.listdir():
-	if file == "python-helper.py":
+	if file == "Recovery.py":
 		continue
 	if os.path.isfile(file):
 		files.append(file)
