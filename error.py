@@ -1,5 +1,8 @@
 import time
-
+print(" ")
+print(" ")
+print(" ")
+print(" ")
 print("ERROR")
 print("BAD IMPUT...")
 time.sleep(5)
