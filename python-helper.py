@@ -281,22 +281,23 @@ print(" ")
 print(" ")
 print(" ")
 print(" ")
-print(" ")
-print(" ")
-print(" ")
-print(" ")
-print(" ")
-print(" ")
-print(" ")
-print(" ")
-print(" ")
-print(" ")
-print(" ")
-print(" ")
-print(" ")
-print(" ")
-print(" ")
-print(" ")
+print("	⠀⠀⠀⠀⠀⠀               ⠀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⡀⠀⠀⠀")
+print("⠀⠀⠀⠀⠀⠀⠀⠀⠀        ⣀⣤⣴⣾⣿⣿⣿⣿⣿⣿⡿⠿⠿⠿⣿⣿⣷⣄⠀")
+print("⠀⠀⠀⠀⠀⠀        ⠀⣠⣾⣿⠟⠛⠋⠁⠀⠀⠈⣻⣿⣿⣷⣄⠀⠀⠈⢿⣿⡆")
+print(" ⠀⠀⠀⠀       ⠀⣠⣾⣿⠟⠁⠀⠀⠀⠀⠀⠀⢀⣿⣿⠛⠻⣿⣷⣦⡀⢸⣿⡇")
+print(" ⠀⠀⠀       ⢠⣾⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⡟⠀⠀⠈⠻⣿⣿⣾⣿⡇")
+print(" ⠀       ⠀⣠⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣶⣶⣶⣶⣶⣶⣿⣿⣿⡇")
+print("        ⠀⣰⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⡛⠛⠛⠛⠛⢻⣿⣿⣿⡇")
+print("        ⢸⣿⣿⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⠟⠁⢹⣿⣷⠀⠀⠀⣠⣿⣿⢻⣿⡇")
+print("        ⢸⣿⣿⣧⣤⣤⣴⣶⣶⣶⣿⣿⣿⣅⣀⠀⠀⢿⣿⣆⢀⣴⣿⡿⠁⢸⣿⡇")
+print("        ⢸⣿⣿⣿⣿⡿⠛⠛⠛⣿⣿⠟⠻⢿⣿⣿⣷⣮⣿⣿⣿⣿⠏⠀⠀⢸⣿⡇")
+print("        ⢸⣿⡇⠻⣿⣷⡀⠀⢠⣿⣿⠀⠀⠀⠀⠈⢙⣿⣿⣿⣿⣧⡀⠀⠀⢸⣿⡇")
+print("        ⢸⣿⡇⠀⠹⣿⣷⡀⣾⣿⡇⠀⠀⠀⣠⣴⣿⣿⠟⠉⠻⣿⣿⣦⡀⢸⣿⡇")
+print("        ⠸⣿⣿⣄⠀⠹⣿⣿⣿⣿⣀⣤⣴⣾⣿⡿⠋⠀⠀⠀⠀⠈⠻⣿⣿⣾⣿⡇")
+print(" ⠀       ⠘⢿⣿⣿⣶⣾⣿⣿⣿⣿⣿⣿⣿⣷⣶⣶⣶⣶⣶⣶⣶⣶⣾⣿⣿⣿⡇")
+print(" ⠀⠀       ⠀⠈⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠁")
+print("█▀█ █░█ █▄▄ █▄█   ▄▀█ █▀ █▀ █ █▀ ▀█▀ ▄▀█ █▄░█ ▀█▀")
+print("█▀▄ █▄█ █▄█ ░█░   █▀█ ▄█ ▄█ █ ▄█ ░█░ █▀█ █░▀█ ░█░")
 print(" ")
 print("Assistant has now been set up.")
 print("If Assistant crashes, please restart your Computer or PY program")
@@ -327,3 +328,13 @@ else:
 	time.sleep(5)
 	print("Restarting your PC")
 	os.system("shutdown /r /t 1")	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
