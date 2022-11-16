@@ -1,4 +1,4 @@
-imput time
+import time
 print("ERROR")
 print("BAD IMPUT...")
 time.sleep(5)
