@@ -301,11 +301,14 @@ print("█▀▄ █▄█ █▄█ ░█░   █▀█ ▄█ 
 print(" ")
 print("Assistant has now been set up.")
 print("If Assistant crashes, please restart your Computer or PY program")
-time.sleep(8)
+time.sleep(2)
 print("Loading...")
 print(" ")
 print(" ")
 print(" ")
+from subprocess import call
+call(["python", "Recovery.py"])
+time.sleep(1)
 
 time.sleep(5)
 password = "pASS?0wRd"
